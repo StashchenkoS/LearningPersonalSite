@@ -1,2 +1,2 @@
 # Resume
-https://stashchenkos.github.io/Resume/
+https://stashchenkos.github.io/LearningPersonalSite/
